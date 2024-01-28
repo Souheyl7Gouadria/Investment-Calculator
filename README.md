@@ -24,10 +24,11 @@ npm start
 Open your browser and visit http://localhost:3000 to view the application.
 
 Usage
+
 Enter your current savings, yearly contribution, expected return on investment (as a percentage), and the investment duration.
 Click the "Calculate" button to see the projected savings over each year.
 The results are displayed in a table format, showing yearly interest, total savings, and yearly contribution.
-Code Structure
+Code Structure : 
 The main logic of the application is implemented in App.js. Here's a brief overview of the key components:
 
 UserInput: This component takes user input for current savings, yearly contribution, expected return, and duration. It triggers the calculation process when the "Calculate" button is clicked.
